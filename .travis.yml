@@ -5,6 +5,8 @@ scripts:
   - npm install
   - npm test
 deploy:
-  - provider: heroku
-  - app: travis-ale
-  - on: ejemplo 
+  provider: heroku
+  api_key: 
+    secure: dce6678b-128e-42ba-ad41-9ebe5562131f
+  app: travis-ale
+  on: ejemplo 
