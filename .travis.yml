@@ -1,7 +1,3 @@
 language: node_js
-script: 
-<<<<<<< HEAD
-  - echo "Hello World"
-=======
-  - echo "Hello World"
->>>>>>> 8e4deb88344f90561024f8ea473beaed150d75fc
+script: echo "Hello World"
+
