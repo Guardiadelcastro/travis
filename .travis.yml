@@ -1,1 +1,3 @@
-sh echo "Hello World"
+language: node_js
+script: 
+  - echo "Hello World"
