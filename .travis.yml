@@ -1,1 +1,2 @@
-sh echo "Hello World"
+language: 
+script: echo "Hello World"
